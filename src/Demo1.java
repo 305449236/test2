@@ -4,5 +4,6 @@ public class Demo1 {
         System.out.println("用idea测试一下git");
         System.out.println("用idea测试一下git");
         System.out.println("99999");
+        System.out.println("101010");
     }
 }
